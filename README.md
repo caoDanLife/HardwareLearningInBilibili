@@ -1,1 +1,1 @@
-## This is a classification of learning hardware in Bilibili.
+## This is a classification of learning hardware videos in Bilibili.
